@@ -49,12 +49,12 @@ ros2 run finger_leds finger_led_node --ros-args -p serial_port:=/dev/ttyUSB0
 
 
 	
-🧾 License
+##🧾 License
 
 This project is open-sourced under the MIT License
 
 .
-👤 Author
+##👤 Author
 
 Sam Shoni Zacharia
 🔗 LinkedIn : samshoni
