@@ -47,7 +47,6 @@ colcon build --symlink-install
 source install/setup.bash
 ros2 run finger_leds finger_led_node --ros-args -p serial_port:=/dev/ttyUSB0
 
-
 	
 ##🧾 License
 
